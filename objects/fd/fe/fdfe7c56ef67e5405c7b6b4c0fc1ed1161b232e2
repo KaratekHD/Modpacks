@@ -1,0 +1,14 @@
+# Configuration file
+
+general {
+    # Set to true for verbose debug
+    B:debug=false
+
+    # Server unique ID
+    S:guid=9f6d844b-91d6-4b25-8216-856406b84922
+
+    # Set to true to disable all reporting
+    B:opt-out=false
+}
+
+
