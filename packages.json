@@ -4,7 +4,7 @@
     {
       "title" : "The Magewars Modpack",
       "name" : "Magewars",
-      "version" : "v1.3",
+      "version" : "1.4.0",
       "location" : "magewars.json",
       "priority" : 0
     }
